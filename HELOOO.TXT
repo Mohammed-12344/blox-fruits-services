@@ -1660,7 +1660,7 @@ function Tab:AddButton(Configs)
 				Position = UDim2.new(1, -10, 0.5),
 				AnchorPoint = Vector2.new(1, 0.5),
 				BackgroundTransparency = 1,
-				Image = "rbxassetid://126463403744337"
+				Image = "rbxassetid://95682083796442"
 			})
 			
 			FButton.Activated:Connect(function()
@@ -1673,7 +1673,7 @@ function Tab:AddButton(Configs)
 					local OriginalPos = ButtonIcon.Position
 					
 					-- ضع الآيدي حق الصورة الثانية (المؤقتة) مكان الأصفار هنا
-					ButtonIcon.Image = "rbxassetid://0000000000" 
+					ButtonIcon.Image = "rbxassetid://76144975356652" 
 					
 					-- تأثير الاهتزاز (يمين ويسار 3 مرات)
 					for i = 1, 3 do
