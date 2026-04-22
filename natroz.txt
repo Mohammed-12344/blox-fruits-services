@@ -1653,7 +1653,7 @@ function redzlib:MakeWindow(Configs)
     local OriginalImage = ButtonIcon.Image
     local OriginalPos = ButtonIcon.Position -- نخزن المكان الأصلي عشان ما تخرب الواجهة
     
-    ButtonIcon.Image = "rbxassetid://ID_HERE" -- ضع هنا آيدي الصورة الموقتة
+    ButtonIcon.Image = "rbxassetid://76144975356652" -- ضع هنا آيدي الصورة الموقتة
 
     -- 2. تنفيذ الاهتزاز (يمين وشمال)
     for i = 1, 3 do -- سيهتز 3 مرات
