@@ -1674,7 +1674,7 @@ function Tab:AddButton(Configs)
 					local OriginalPos = ButtonIcon.Position
 					
 					-- هنا تم وضع الصورة المؤقتة
-					ButtonIcon.Image = "rbxassetid://76144975356652" 
+					ButtonIcon.Image = "rbxassetid://72698884927301" 
 					
 					-- تأثير الاهتزاز (يمين ويسار 3 مرات)
 					for i = 1, 3 do
